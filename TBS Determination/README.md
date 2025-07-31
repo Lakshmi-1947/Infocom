@@ -1,6 +1,6 @@
 ## Acknowledgement
 
-We have slightly modified the original simulator to obtain Transport Block Sizes for various DM-RS, subchannel, and MCS combinations. We are grateful to the authors — L. Lusvarghi, B. Coll-Perales, J. Gozalvez, and M. L. Merani — for making their simulator and dataset open-source, as they were indispensable to our work. If you use their simulator, please cite them as shown below:
+We have slightly modified the original simulator to obtain Transport Block Sizes for various DM-RS, subchannel, and MCS combinations. We have included the code from their simulator for completeness. We are grateful to the authors — L. Lusvarghi, B. Coll-Perales, J. Gozalvez, and M. L. Merani — for making their simulator and dataset open-source, as they were indispensable to our work. If you use their simulator, please cite them as shown below:
 
 ---
 
