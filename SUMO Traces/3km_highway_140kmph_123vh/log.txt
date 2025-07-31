@@ -1,0 +1,13 @@
+Loading net-file from './../common_files/highway_3km_140kmph.net.xml' ... done (1ms).
+Loading additional-files from './../common_files/vtypes.add.xml' ... done (1ms).
+Loading route-files incrementally from './../common_files/highway_123vh.rou.xml'
+Loading done.
+Simulation ended at time: 0.00.
+Performance:
+ Duration: 8566.82s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles:
+ Inserted: 0 (Loaded: 123)
+ Running: 0
+ Waiting: 0
