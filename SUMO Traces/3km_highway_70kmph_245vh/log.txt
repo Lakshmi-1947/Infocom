@@ -1,0 +1,17 @@
+***Starting server on port 57638 ***
+Loading net-file from 'C:/Users/Vaideeswaran/Documents/ACS Project/traces/3km_highway_70kmph_245vh/./../common_files/highway_3km_70kmph.net.xml' ... done (2ms).
+Loading additional-files from 'C:/Users/Vaideeswaran/Documents/ACS Project/traces/3km_highway_70kmph_245vh/./../common_files/vtypes.add.xml' ... done (0ms).
+Loading route-files incrementally from 'C:/Users/Vaideeswaran/Documents/ACS Project/traces/3km_highway_70kmph_245vh/./../common_files/highway_245vh.rou.xml'
+Loading done.
+Simulation version 1.22.0 started with time: 0.00.
+Simulation ended at time: 402.10.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 1200.80s
+ TraCI-Duration: 1198.89s
+ Real time factor: 0.334859
+ UPS: 475.877829
+Vehicles:
+ Inserted: 245
+ Running: 0
+ Waiting: 0
