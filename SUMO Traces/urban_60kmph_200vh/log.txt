@@ -1,0 +1,46 @@
+***Starting server on port 50721 ***
+Loading net-file from 'C:/Users/Vaideeswaran/Downloads/tr_103766v010101p0/urban_60kmph_200vh/urban_60kmph.net.xml' ... done (6ms).
+Loading additional-files from 'C:/Users/Vaideeswaran/Downloads/tr_103766v010101p0/urban_60kmph_200vh/vtypes.add.xml' ... done (1ms).
+Loading route-files incrementally from 'C:/Users/Vaideeswaran/Downloads/tr_103766v010101p0/urban_60kmph_200vh/urban_200vh.rou.xml'
+Loading done.
+Simulation version 1.22.0 started with time: 0.00.
+Warning: Teleporting vehicle '082'; waited too long (yield), lane='AB_1', time=313.00.
+Warning: Vehicle '082' ends teleporting on edge 'Bn', time=313.00.
+Warning: Teleporting vehicle '116'; waited too long (yield), lane='DC_2', time=314.00.
+Warning: Vehicle '116' ends teleporting on edge 'CA', time=314.00.
+Warning: Teleporting vehicle '130'; waited too long (yield), lane='eB_1', time=315.00.
+Warning: Vehicle '130' ends teleporting on edge 'BD', time=315.00.
+Warning: Teleporting vehicle '014'; waited too long (yield), lane='DC_1', time=344.00.
+Warning: Vehicle '014' ends teleporting on edge 'cS', time=344.00.
+Warning: Teleporting vehicle '150'; waited too long (yield), lane='CD_2', time=439.00.
+Warning: Vehicle '150' ends teleporting on edge 'Ds', time=439.00.
+Warning: Teleporting vehicle '160'; waited too long (yield), lane='wA_2', time=528.00.
+Warning: Teleporting vehicle '106'; waited too long (yield), lane='wA_1', time=528.00.
+Warning: Vehicle '106' ends teleporting on edge 'An', time=528.00.
+Warning: Vehicle '160' ends teleporting on edge 'An', time=528.00.
+Warning: Teleporting vehicle '163'; waited too long (yield), lane='BA_2', time=529.00.
+Warning: Vehicle '163' ends teleporting on edge 'An', time=529.00.
+Warning: Teleporting vehicle '007'; waited too long (yield), lane='DC_2', time=619.00.
+Warning: Vehicle '007' ends teleporting on edge 'CA', time=619.00.
+Warning: Teleporting vehicle '125'; waited too long (yield), lane='AB_2', time=620.00.
+Warning: Teleporting vehicle '016'; waited too long (yield), lane='AB_1', time=620.00.
+Warning: Vehicle '016' ends teleporting on edge 'Bn', time=620.00.
+Warning: Vehicle '125' ends teleporting on edge 'BD', time=620.00.
+Warning: Teleporting vehicle '096'; waited too long (yield), lane='CD_2', time=744.00.
+Warning: Vehicle '096' ends teleporting on edge 'Ds', time=744.00.
+Warning: Teleporting vehicle '135'; waited too long (yield), lane='CD_1', time=745.00.
+Warning: Vehicle '135' ends teleporting on edge 'DB', time=745.00.
+Warning: Teleporting vehicle '050'; waited too long (yield), lane='DC_1', time=997.00.
+Warning: Vehicle '050' ends teleporting on edge 'cS', time=997.00.
+Simulation ended at time: 1125.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 155.97s
+ TraCI-Duration: 155.06s
+ Real time factor: 7.21297
+ UPS: 778.981721
+Vehicles:
+ Inserted: 200
+ Running: 0
+ Waiting: 0
+ Teleports: 14 (Yield: 14)
