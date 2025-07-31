@@ -1,0 +1,29 @@
+<routes>
+    
+
+<!-- Comments on parameters
+    - see parameters descriptions at https://sumo.dlr.de/docs/Definition_of_Vehicles,_Vehicle_Types,_and_Routes.html
+	
+	- minGap: 	Empty space after leader [m]. Default value: 2.5
+	- accel: 	The acceleration ability of vehicles of this type (in m/s^2). Default value: 2.6
+	- decel:	The deceleration ability of vehicles of this type (in m/s^2). Default value: 4.5
+	- length: 	The vehicle's netto-length (length) (in m). Default value: 5
+	- maxSpeed:	The vehicle's maximum velocity (in m/s). Default value: 70m/sec (250 km/h)	
+	- sigma: 	Car-following model parameter, The driver imperfection (0 denotes perfect driving.	Default value: 0.5) If using value of 0.5 the cars do not always keep the safe safety distance, nor the same steady speed
+	
+	- speedFactor	The vehicles expected multiplicator for lane speed limits
+		 Default value: 1.0
+		 Using speedFactor="normc(1,0.1,0.2,2)" will result in a speed distribution where 95% of the vehicles drive between 80% and 120% of the legal speed limit. 
+		 Currently not used.
+		 
+	- speedDev		The deviation of the speedFactor; see below for details (some vClasses use a different default). 
+		Default value: 0.1
+		Value of 0.0 makes all cars have the exact same speed
+	
+-->
+
+	<vType id="VM_standard_car" minGap="2.5" accel="2.6" decel="4.5" sigma="0.4" length="5" maxSpeed="70" speedDev="0.1" guiShape="passenger"/>
+	
+
+</routes>
+      
